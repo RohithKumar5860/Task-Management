@@ -12,6 +12,10 @@
 </h4>
 <img src = "interface.png">
 <h4>
-  Task Adding in a webpage
+  Task Adding in a webpage :-
 </h4>
 <img src = "taskappend.png">
+<h4>
+  Task delete in a web page :-
+</h4>
+<img src = "taskpop.png">
